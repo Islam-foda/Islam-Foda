@@ -1,7 +1,7 @@
 <img width="250" align="right" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
 <h3 align="center">
-  Welcome to Islam Fouda's profile!
+  Hello & Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
